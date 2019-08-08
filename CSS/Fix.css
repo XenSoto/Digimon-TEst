@@ -1,0 +1,57 @@
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+hr{
+  border-style: dashed none none;
+  border-top: 2px dashed grey;
+}
+
+h2{
+  text-align: center;
+  color: lightGreen;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+h4{
+  text-align: center;
+  color: green;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
+
+.indent{
+
+  margin: 40px;
+  margin-right: 500px;
+  border: none;
+text-align: center;
+  background-color: tan;
+  border-width: medium;
+   padding: 50px;
+  border-radius: 50px 200px;
+}
+
+.background{
+  background-image: url(https://www.mitre.org/sites/default/files/article/cybersecurity-whatsnew.jpg);
+  min-height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+img{
+  border-style: double;
+}
+.space{
+  margin-left: 900%;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background: red;
+  color: white;
+
+}
